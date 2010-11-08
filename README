@@ -1,0 +1,16 @@
+NAME:     RemoteMonitotTool v0.0.1
+AUTHOR:   Stefano Viola (estebanSannin)
+CONTACT:  stefanoviola[at]sannioglug[dot]org
+LICENSE:  GPLv3
+
+
+INFO:
+	RemoteMonitorTool (rmt) is a web dinamic application for monitoring
+	your Linux system.
+	Is perfect for embedded Linux systems because it uses little system resources.
+
+NOTE:
+	Tested on:
+	---> Notebook with Dual Core processor
+	---> Sheevaplug with an ARM architecture (1.2 ghz)
+	---> Router AGA (Alice Gate 2 Plus Wi-Fi)
