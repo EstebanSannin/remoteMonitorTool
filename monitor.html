@@ -1,0 +1,60 @@
+<html>
+<link rel='stylesheet' href='style.css' type='text/css'>
+<head>
+<title>Monitor Tools</title>
+<script src="js/ajaxsbmt.js" type="text/javascript"></script>
+<script language="javascript" src="dinamic.js" type=text/javascript></script>
+</head>
+<body>
+<!-- onload="setInterval(mostraOra, 1000);"> -->
+
+<div id='footer'><pre><font color=red>Monitor Tool</font> by <font color=yellow><a href='http://esteban.homelinux.org'>EstebanSannin</a></font>    <span id="ora" align="right"></span></pre></div>
+<div id='header'>Monitor Tool</div>
+<div id='content'>
+<br>
+<script>
+var pippo;
+function dinam(cgi, label){
+	pippo=setInterval(webDinamic.putCgiContent, 1000,cgi, label);
+
+}
+function stop(){
+
+	clearInterval(pippo);
+}
+
+</script>
+
+<table border="0"><tr>
+<td><input type="button" name="memory" value="netstat" OnClick="javascript:stop(); dinam('netstat.cgi', 'textarea');"></td>
+<td><input type="button" name="memory" value="dmesg" OnClick="javascript:stop(); dinam('dmesg.cgi', 'textarea');"</td>
+<td><input type="button" name="memory" value="diskUsage" OnClick="javascript:stop(); dinam('diskUsage.cgi', 'textarea')"></td>
+<td><input type="button" name="memory" value="free" OnClick="javascript:stop(); dinam('ram.cgi', 'textarea')"></td>
+<td></td>
+</tr>
+<tr>
+<td><br><input type="button" name="memory" value="reset" OnClick="location.reload(true);"></td>
+</tr></table>
+
+<pre>
+SysInfo:
+</pre>
+<span id="system"></span>
+<span id="ram"></span>
+<br><pre>
+<span id="test"></span>
+</pre>
+<script>        
+setInterval(test, 500, 'sysinfo.cgi', 'system');
+setInterval(test, 500, "ram.cgi", "test");
+</script> 
+<h3>Output:</h3>
+<form action="" method="" name="form">
+<textarea name="textarea" rows="20" cols="100" style='color: white; font-size: 90%' readonly>
+</textarea>
+</form>
+
+</div>
+</body>
+</html>
+
