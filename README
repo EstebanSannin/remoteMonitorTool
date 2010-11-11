@@ -8,6 +8,7 @@ INFO:
 	RemoteMonitorTool (rmt) is a web dinamic application for monitoring
 	your Linux system.
 	Is perfect for embedded Linux systems because it uses little system resources.
+	Compatibility: Firefox, Chrome
 
 NOTE:
 	Tested on:
