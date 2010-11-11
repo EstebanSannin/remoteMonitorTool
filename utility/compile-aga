@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#toolchain
+export TARGET_HOST=mips-linux
+export TOOLCHAINS_HOME=/opt/toolchains/uclibc-crosstools
+export LIBS=-L$TOOLCHAINS_HOME/lib/gcc/mips-linux/3.4.2
+export INCLUDES="-I$TOOLCHAINS_HOME/include/c++/3.4.2 -I$TOOLCHAINS_HOME/mips-linux/sys-include"
+export CFLAGS="$INCLUDES $LIBS -static"
+export LDFLAGS=-static
+export CC=$TOOLCHAINS_HOME/bin/mips-uclibc-gcc
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$TOOLCHAINS_HOME/lib
+export PATH=$PATH:$TOOLCHAINS_HOME/bin
+
+echo -e "\n\nCompiling\n\n"
+$CC -o rate_aga rate_aga.c
