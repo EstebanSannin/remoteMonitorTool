@@ -15,12 +15,12 @@
 <script>
 var pippo;
 function dinam(cgi, label){
-	pippo=setInterval(webDinamic.putCgiContent, 1000,cgi, label);
+	request=setInterval(test, 1000,cgi, label);
 
 }
 function stop(){
 
-	clearInterval(pippo);
+	clearInterval(request);
 }
 
 </script>
