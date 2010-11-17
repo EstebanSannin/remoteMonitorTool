@@ -1,0 +1,35 @@
+###################################################
+#                                                 #
+# NAME:     data-traffic                          #
+# VERSION:  0.9                                   #
+# INFO:     Control your network traffic          #
+#                                                 #
+# AUTHOR:   Stefano Viola (aka) Esteban Sannin    #
+# CONTACT:  stefanoviola[at]sannioglug[dot]org    #
+# LICENSE:  GPLv3                                 #
+#                                                 #
+###################################################                                       
+
+[COMPILING]:
+            For compiling use Makefile:
+            make
+
+[INSTALL]:
+           with root user:
+           make install 
+
+[USAGE]:
+         dtraffic -i [interface] -m [mode]
+         -i  <interface> indicate the interface to calculate the traffic rate
+         -m  <mode> indicate the mode for scanning interface: [ down | up ]
+         -l  Print the list of network interfaces
+         -h  Print this help message.
+
+
+[EXAMPLE]:
+          dtraffic -i wlan0 -m down ---> scan wlan0 interface in download mode
+          dtraffic -l               ---> print the list of network interface
+
+
+[NOTE]: 
+        version 0.9

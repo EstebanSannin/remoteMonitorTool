@@ -1,0 +1,13 @@
+
+remoteMonitorTool (RMT)
+
+
+---> creare pagina con le note sulla versione.
+---> creare una pagina dove verranno elencati i moduli disponibili
+
+
+FEATURE:
+
+---> creare un gestore di aggiornamenti dove si potranno cercare i moduli disponibili sul
+     relativo repositoy, i moduli attualmente installati e una funzione per rilevare 
+     eventuali aggiornamenti.

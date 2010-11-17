@@ -9,18 +9,24 @@
 <!-- onload="setInterval(mostraOra, 1000);"> -->
 
 <div id='footer'><pre><font color=red>Monitor Tool</font> by <font color=yellow><a href='http://esteban.homelinux.org'>EstebanSannin</a></font>    <span id="ora" align="right"></span></pre></div>
-<div id='header'>Monitor Tool</div>
+<div id='header'><pre><h2>Monitor Tool</h2><pre>
+<table border="0"><tr>
+<td class="headitem"><a href="index.html">home</a></td>
+<td class="headitem"><a href="versionNote.html">versionNote</a></td>
+<td class="headitem"><a href="modules.html">modules</a></td>
+<td class="headitem"><a href="donate.html">donate</a></td></tr></table>
+</div>
 <div id='content'>
 <br>
 <script>
-var pippo;
+var reload;
 function dinam(cgi, label){
-	request=setInterval(test, 1000,cgi, label);
+	reload=setInterval(test, 1000,cgi, label);
+	//alert(label);
 
 }
 function stop(){
-
-	clearInterval(request);
+	clearInterval(reload);
 }
 
 </script>
@@ -45,12 +51,11 @@ SysInfo:
 <span id="test"></span>
 </pre>
 <script>        
-setInterval(test, 500, 'sysinfo.cgi', 'system');
-setInterval(test, 500, "ram.cgi", "test");
+setInterval(test, 1000, 'sysinfo.cgi', 'system');
 </script> 
 <h3>Output:</h3>
 <form action="" method="" name="form">
-<textarea name="textarea" rows="20" cols="100" style='color: white; font-size: 90%' readonly>
+<textarea id="textarea" name="textarea" rows="20" cols="100" style='color: white; font-size: 87%' readonly>
 </textarea>
 </form>
 

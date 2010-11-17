@@ -1,0 +1,10 @@
+Modifiche
+
+Il file device.c credo che sia sistemato, andrebbero riviste le meccaniche
+del software e i compiti...
+
+Cambiata la gestione dei parametri
+aggiunta la funzionalita' -t
+
+
+Resta da aggiungere -l e -h in piu' bisogna ripulire il codice.

@@ -14,15 +14,15 @@
    You should have received a copy of the GNU General Public License
    along with 'IngUnisannio'.  If not, see <http://www.gnu.org/licenses/>.
 
-   AUTHOR:  Stefano Viola (estebanSannin) 
-   CONTACT: stefanoviola [at] sanniolug [dot] org
-   SITE:    http://estban.homelinux.org
+AUTHOR:  Stefano Viola (estebanSannin) 
+CONTACT: stefanoviola [at] sanniolug [dot] org
+SITE:    http://estban.homelinux.org
 
  */
 
 function test(url, id){
 	var xmlhttp=false;
-	
+
 	/*
 	 * Adding IE compatibility...
 	 *
@@ -54,7 +54,7 @@ function test(url, id){
 
 var webDinamic = {
 
-	  //preleva i parametri da una form e li invia al cgi
+	//preleva i parametri da una form e li invia al cgi
 xmlhttpGET: function(strURL){
 
 		    var xmlHttpReq = false;
@@ -74,22 +74,21 @@ xmlhttpGET: function(strURL){
 				    updatepage(self.xmlHttpReq.responseText);
 			    }       
 		    }
-		    self.xmlHttpReq.send(null)
-	    },
-updatePage: function(str){
-	    },
-}
-function updatepage(str){
-	document.getElementById("result").innerHTML = str;
-}
+		    self.xmlHttpReq.send(null);
+		    function updatepage(str){
+			    document.getElementById("result").innerHTML = str;
+		    }
 
+		    function getquerystring() {
+			    var form     = document.forms['f1'];
+			    var nome = form.nome.value;
+			    qstr = 'nome=' + escape(nome);
+			    return qstr;
+		    }
+	    },
+}
 function mostraOra(){
 	document.getElementById(
 			"ora").innerHTML = ""+new Date()
 }
-function getquerystring() {
-	var form     = document.forms['f1'];
-	var nome = form.nome.value;
-	qstr = 'nome=' + escape(nome);
-	return qstr;
-}
+
