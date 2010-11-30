@@ -1,0 +1,1846 @@
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.canonical.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://security.ubuntu.com maverick-security Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Hit http://archive.canonical.com maverick Release
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Hit http://archive.ubuntu.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Hit http://archive.ubuntu.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://archive.ubuntu.com maverick Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://security.ubuntu.com maverick-security Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://archive.canonical.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...
+Hit http://it.archive.ubuntu.com maverick Release.gpg
+Hit http://security.ubuntu.com maverick-security Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/main Translation-it
+Hit http://archive.canonical.com maverick Release.gpg
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-en
+Ign http://archive.canonical.com/ubuntu/ maverick/partner Translation-it
+Hit http://archive.ubuntu.com maverick Release.gpg
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/multiverse Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/restricted Translation-it
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-en
+Ign http://security.ubuntu.com/ubuntu/ maverick-security/universe Translation-it
+Hit http://extras.ubuntu.com maverick Release.gpg
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-en
+Ign http://extras.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://security.ubuntu.com maverick-security Release
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-en
+Hit http://archive.canonical.com maverick Release
+Hit http://archive.ubuntu.com maverick Release
+Hit http://extras.ubuntu.com maverick Release
+Hit http://security.ubuntu.com maverick-security/restricted Sources
+Hit http://archive.canonical.com maverick/partner Sources
+Hit http://archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/main Translation-it
+Hit http://extras.ubuntu.com maverick/main Sources
+Hit http://security.ubuntu.com maverick-security/main Sources
+Hit http://security.ubuntu.com maverick-security/multiverse Sources
+Hit http://security.ubuntu.com maverick-security/universe Sources
+Hit http://security.ubuntu.com maverick-security/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/restricted i386 Packages
+Hit http://archive.canonical.com maverick/partner i386 Packages
+Hit http://archive.ubuntu.com maverick/restricted Sources
+Hit http://extras.ubuntu.com maverick/main i386 Packages
+Hit http://security.ubuntu.com maverick-security/multiverse i386 Packages
+Hit http://security.ubuntu.com maverick-security/universe i386 Packages
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-en
+Hit http://it.archive.ubuntu.com/ubuntu/ maverick/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick-updates Release.gpg
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/main Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/multiverse Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/restricted Translation-it
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-en
+Ign http://it.archive.ubuntu.com/ubuntu/ maverick-updates/universe Translation-it
+Hit http://it.archive.ubuntu.com maverick Release
+Hit http://it.archive.ubuntu.com maverick-updates Release
+Hit http://it.archive.ubuntu.com maverick/restricted Sources
+Hit http://it.archive.ubuntu.com maverick/main Sources
+Hit http://it.archive.ubuntu.com maverick/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick/universe Sources
+Hit http://it.archive.ubuntu.com maverick/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick/universe i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main Sources
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse Sources
+Hit http://it.archive.ubuntu.com maverick-updates/universe Sources
+Hit http://it.archive.ubuntu.com maverick-updates/main i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/restricted i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/multiverse i386 Packages
+Hit http://it.archive.ubuntu.com maverick-updates/universe i386 Packages
+Reading package lists...

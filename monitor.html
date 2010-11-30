@@ -8,7 +8,7 @@
 <body>
 <!-- onload="setInterval(mostraOra, 1000);"> -->
 
-<div id='footer'><pre><font color=red>Monitor Tool</font> by <font color=yellow><a href='http://esteban.homelinux.org'>EstebanSannin</a></font>    <span id="ora" align="right"></span></pre></div>
+<div id='footer'><pre><font color=red>Monitor Tool</font> by <font color=yellow><a href='http://esteban.homelinux.org'>Stefano Viola (EstebanSannin)</a></font>    <span id="ora" align="right"></span></pre></div>
 <div id='header'><pre><h2>Monitor Tool</h2><pre>
 <table border="0"><tr>
 <td class="headitem"><a href="index.html">home</a></td>
@@ -21,9 +21,7 @@
 <script>
 var reload;
 function dinam(cgi, label){
-	reload=setInterval(test, 1000,cgi, label);
-	//alert(label);
-
+	reload=setInterval(cgiRequest, 1500,cgi, label);
 }
 function stop(){
 	clearInterval(reload);
@@ -32,10 +30,10 @@ function stop(){
 </script>
 
 <table border="0"><tr>
-<td><input type="button" name="memory" value="netstat" OnClick="javascript:stop(); dinam('netstat.cgi', 'textarea');"></td>
-<td><input type="button" name="memory" value="dmesg" OnClick="javascript:stop(); dinam('dmesg.cgi', 'textarea');"</td>
-<td><input type="button" name="memory" value="diskUsage" OnClick="javascript:stop(); dinam('diskUsage.cgi', 'textarea')"></td>
-<td><input type="button" name="memory" value="free" OnClick="javascript:stop(); dinam('ram.cgi', 'textarea')"></td>
+<td><input type="button" name="memory" value="netstat" OnClick="javascript:stop(); dinam('cgi-bin/netstat.cgi', 'textarea');"></td>
+<td><input type="button" name="memory" value="dmesg" OnClick="javascript:stop(); dinam('cgi-bin/dmesg.cgi', 'textarea');"</td>
+<td><input type="button" name="memory" value="diskUsage" OnClick="javascript:cgiRequest('cgi-bin/diskUsage.cgi', 'textarea')"></td>
+<td><input type="button" name="memory" value="free" OnClick="javascript:stop(); dinam('cgi-bin/ram.cgi', 'textarea')"></td>
 <td></td>
 </tr>
 <tr>
@@ -51,7 +49,7 @@ SysInfo:
 <span id="test"></span>
 </pre>
 <script>        
-setInterval(test, 1000, 'sysinfo.cgi', 'system');
+setInterval(cgiRequest, 1000, 'cgi-bin/sysinfo.cgi', 'system');
 </script> 
 <h3>Output:</h3>
 <form action="" method="" name="form">

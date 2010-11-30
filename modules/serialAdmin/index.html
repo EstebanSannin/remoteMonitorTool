@@ -1,0 +1,54 @@
+<html>
+<link rel='stylesheet' href='style.css' type='text/css'>
+<head>
+<title>Monitor Tools</title>
+<script src="js/ajaxsbmt.js" type="text/javascript"></script>
+<script language="javascript" src="dinamic.js" type=text/javascript></script>
+</head>
+<body>
+
+<div id='footer'><pre><font color=red>Monitor Tool</font> by <font color=yellow><a href='http://esteban.homelinux.org'>Stefano Viola (EstebanSannin)</a></font></pre></div>
+<div id='header'><h2>Serial Control</h2><pre>
+<table border="0"><tr>
+<td class="headitem"><a href="../../monitor.html">home</a></td>
+<td class="headitem"><a href="../../versionNote.html">versionNote</a></td>
+<td class="headitem"><a href="../../donate.html">donate</a></td></tr></table>
+</div>
+<div id='content'>
+<br>
+
+<h3>PUT Serial String:</h3>
+<form name="f1" action="put_serial.cgi" method="get" onsubmit="webDinamic.xmlhttpGET('put_serial.cgi'); return false;">
+<input type="text" name="nome" value="Test" />
+<input type="submit" value="Send" />
+</form>
+
+<!--
+<form method=GET action="put_serial.cgi">
+Insert string: <input type='text' name='nome' size='30'>
+<input type='submit' value='send'>
+</form>-->
+<br>
+RESULT:
+<span id="result"></span>
+
+<script>
+setInterval(test, 2000,'serial.cgi', 'textarea');
+</script>
+
+<span id="serial"></span>
+
+<!--<input type="button" name="memory" value="dmesg" OnClick="javascript:setInterval(contentDinamic, 1000,'dmesg.cgi', 'dmesg');">-->
+
+<h3>SERIAL MONITOR (ttyS0):</h3>
+<br>
+<form action="" method="" name="form">
+<textarea id="textarea" name="textarea" rows="16" cols="100" style='color: white; font-size: 80%' readonly>
+</textarea>
+</form>
+
+</pre>
+</div>
+</body>
+</html>
+
