@@ -8,8 +8,9 @@
 <body>
 <!-- onload="setInterval(mostraOra, 1000);"> -->
 
-<div id='footer'><pre><font color=red>Monitor Tool</font> by <font color=yellow><a href='http://esteban.homelinux.org'>Stefano Viola (EstebanSannin)</a></font>    <span id="ora" align="right"></span></pre></div>
-<div id='header'><pre><h2>Monitor Tool</h2><pre>
+<div id='footer'><font color=red>Monitor Tool</font> by <font color=yellow><a href='http://esteban.homelinux.org'>Stefano Viola (EstebanSannin)</a></font></div>
+
+<div id='header'><h2>Monitor Tool</h2>
 <table border="0"><tr>
 <td class="headitem"><a href="index.html">home</a></td>
 <td class="headitem"><a href="versionNote.html">versionNote</a></td>
@@ -28,11 +29,11 @@ function stop(){
 }
 
 </script>
-
+<br>
 <table border="0"><tr>
 <td><input type="button" name="memory" value="netstat" OnClick="javascript:stop(); dinam('cgi-bin/netstat.cgi', 'textarea');"></td>
 <td><input type="button" name="memory" value="dmesg" OnClick="javascript:stop(); dinam('cgi-bin/dmesg.cgi', 'textarea');"</td>
-<td><input type="button" name="memory" value="diskUsage" OnClick="javascript:cgiRequest('cgi-bin/diskUsage.cgi', 'textarea')"></td>
+<td><input type="button" name="memory" value="diskUsage" OnClick="javascript:stop(); cgiRequest('cgi-bin/diskUsage.cgi', 'textarea')"></td>
 <td><input type="button" name="memory" value="free" OnClick="javascript:stop(); dinam('cgi-bin/ram.cgi', 'textarea')"></td>
 <td></td>
 </tr>
